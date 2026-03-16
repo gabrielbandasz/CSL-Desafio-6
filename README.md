@@ -98,6 +98,5 @@ Praticar conceitos fundamentais da programação em **PHP**, incluindo:
 
 # 👨‍💻 Autor
 Desenvolvido por Gabriel Bandasz
-Desenvolvido por **Seu Nome**
 
 Projeto acadêmico para prática de **funções em PHP**.
